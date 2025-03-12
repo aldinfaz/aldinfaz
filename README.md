@@ -1,6 +1,6 @@
 ## Hey, I'm Aldin 👋
 
-## 🚀 About Me
+## About Me
 
 🎓 Second year Computer Science student at Wilfrid Laurier University 
 
