@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Second year Computer Science student at Wilfrid Laurier University 
+🎓 Second year Computer Science student @ Wilfrid Laurier University 
 
 💻 Passionate about software development, data science, and machine learning
 
