@@ -4,7 +4,7 @@
 
 🎓 Third year Computer Science student @ Wilfrid Laurier University 
 
-💻 Passionate about machine learning, software development, and data science
+💻 Interested in machine learning and data science
 
 ## Tools
 
